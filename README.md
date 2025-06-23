@@ -22,10 +22,6 @@ Because I wanted one simple place where people (and future me!) can find all my 
 - DSA (Data Structures & Algorithms)
 - ML (Machine Learning – just starting!)
 
-## 🔗 Projects So Far
-
-- [Python](https://github.com/Jahnvi7/Python): My personal notes and code on Python basics
-
 ---
 
 Thanks for visiting! If you like anything here, feel free to ⭐ it or give me feedback. I’m always open to learning something new 😊
