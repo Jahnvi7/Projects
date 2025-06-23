@@ -1,6 +1,7 @@
 n1 = float(input("Enter number : "))
 n2 = float(input("Enter another number : "))
 o = input("Enter operation (+, -, *, /, %) : ")
+c = True
 
 # Keep asking for valid operator
 vo = ['+', '-', '*', '/', '%']
@@ -27,8 +28,22 @@ elif o == '%':
         r = "Cannot perform modulo by zero!"
 else:
     r = "Invalid operation. Please enter one of +, -, *, /, or %."
-
 print("Your result is :", r)
+
+# Ask if the user wants to calculate again
+while c:
+    duw = input("Do you want to calculate? (yes/no) : ").strip().lower()
+    if duw == 'yes':
+        n1 = float(input("Enter number : "))
+        n2 = float(input("Enter another number : "))
+        o = input("Enter operation (+, -, *, /, %) : ")
+        c = True
+    elif duw not in ['yes', 'no']:
+        print("Invalid input. Please enter 'yes' or 'no'.")
+    elif duw == 'no':
+        c = False
+        break
+
 # This code is a basic calculator that performs addition, subtraction, 
 # multiplication, division based on user input. It handles division by
 # zero and invalid operations gracefully.

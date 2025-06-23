@@ -32,6 +32,7 @@ def vi(): # Input Validation Function
 
     return n, a, c, u, fc, fg, ff, fm, d
 
+# This loop creates n breaks when done..
 while True:
     if A <= V:
         A += 1
