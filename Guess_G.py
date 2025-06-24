@@ -30,7 +30,8 @@ while a > 0:
 
     a -= 1
 
-    duw = input("Do you want to play again? (yes/no) : ").strip().lower()
+duw = input("Do you want to play again? (yes/no) : ").strip().lower()
+while duw:
     if duw == 'yes':
         sn = random.randint(1, 100)
         a = 10 if d == "easy" else 5
@@ -41,7 +42,7 @@ while a > 0:
     else:
         print("Invalid input. Please enter 'yes' or 'no'.")
         continue
-
+    
 # If user fails
 if a == 0 and g != sn:
     print(f"\n💀 You've run out of guesses. The number was {sn}. Better luck next time!")
