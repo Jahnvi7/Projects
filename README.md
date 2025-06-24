@@ -1,28 +1,22 @@
-# 👋 Hey, I'm Jahnvi!
+# 🌟 Jahnvi's Projects Hub
 
-This repository is like my **personal tech diary** — a place where I collect all the projects I build while learning, experimenting, and growing.
+Welcome to my growing garden of code —  
+Here you'll find small yet mighty Python projects,  
+crafted with curiosity and shaped by learning.
 
-## 🛠️ What You'll Find Here
+## 📂 Structure
+- `Apps/`: Real-world utility applications.
+- `Games/`: Fun mini-games made in Python.
+- `Just_Input.py`: Testing input/output behaviors.
+- `README.md`: You are here!
 
-- Beginner-friendly **Python** projects 📘
-- Soon: Web dev experiments 🌐
-- Basic DSA problems 💡
-- Maybe even ML stuff down the line 🤖
-
-I'm still exploring, still learning — and I believe sharing makes the journey even better.
-
-## 📌 Why this repo?
-
-Because I wanted one simple place where people (and future me!) can find all my creations, without getting lost in random folders.
-
-## 🌱 Currently Learning
-
-- Python (with hands-on scripts)
-- Web Development
-- DSA (Data Structures & Algorithms)
-- ML (Machine Learning – just starting!)
+## 🚧 Work in Progress
+- [ ] Add project descriptions
+- [ ] Attach screenshots or GIFs
+- [ ] Convert games to GUI apps
 
 ---
 
-Thanks for visiting! If you like anything here, feel free to ⭐ it or give me feedback. I’m always open to learning something new 😊
-****
+🧠 *Every file here is a step toward my goal: becoming a successful data scientist.*
+
+🎤 *Also, I sing while I code sometimes. Music fuels logic.* 🎶
