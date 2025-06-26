@@ -1,12 +1,29 @@
-# 🌟 The Projects Hub of Jahnvi
-Greetings from my expanding code garden. Little but powerful Python projects can be found here. Created with interest and molded by education.
+# 🐍 Python Projects by Jahnvi
 
-# 📂 Structure Apps: 
-Practical utility applications. Games entertaining Python minigames. Testing input/output behaviors is done with Just_Input.py. READYME.md; You have arrived! 
+Welcome! This is a collection of my Python practice projects — each one built to improve my coding skills through hands-on learning.
 
-# 🚧 Progress in Progress
-Provide project descriptions. Include GIFs or screenshots. Turn games into graphical user interface apps 
-🧠 My objective is to become a successful data scientist, and each file here is a step in that direction.
 ---
-"🎤" I also occasionally sing while I code. Reason is fueled by music. 🎶
+
+## 📌 Projects
+
+- **Calculator App** – Basic arithmetic with input checks
+- **To-Do List (CLI)** – Add, view, and manage tasks
+- **Number Guessing Game** – A fun game with difficulty levels
+- *(More coming soon...)*
+
 ---
+
+## 🧠 What I'm Learning
+
+- Core Python syntax and logic
+- File handling, loops, functions
+- Problem-solving through small builds
+
+---
+
+## 🛠 How to Run
+
+```bash
+git clone https://github.com/Jahnvi7/python-projects.git
+cd python-projects
+python filename.py
