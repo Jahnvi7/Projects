@@ -1,4 +1,4 @@
-# 🐍 Python Projects by Jahnvi
+# 🐍 Projects by Jahnvi
 
 Hello! This is a collection of my practice projects — each one built to improve my coding skills through hands-on learning, Via online sources like youtube, sololearn, AI, etc.
 
