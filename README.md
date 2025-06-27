@@ -7,7 +7,7 @@ Hello! This is a collection of my practice projects — each one built to improv
 ## 📌 Projects
 
 - **Calculator App** – Basic arithmetic with input checks
-- **Mad libs Game** – A game where u fill without knowing th table context
+- **Mad libs Game** – A game where you fill without knowing the table context
 - **Number Guessing Game** – A fun game with difficulty levels
 - (More coming soon...)
 ---
