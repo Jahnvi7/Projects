@@ -5,8 +5,6 @@ while c:
         n2 = float(input("Enter another number : "))
     except ValueError:
         print("Invalid input. Please enter number(s)")
-        n1 = float(input("Enter number : "))
-        n2 = float(input("Enter another number : "))
     else:
         break
 
@@ -14,7 +12,7 @@ o = input("Enter operation (+, -, *, /, %) : ")
 
 # Keep asking for valid operator
 vo = ['+', '-', '*', '/', '%']
-for o in vo:
+while o not in vo:
     print("Invalid operation. Please enter one of +, -, *, /, %.")
     o = input("Enter operation again: ")
 
