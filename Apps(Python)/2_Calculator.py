@@ -1,11 +1,20 @@
-n1 = float(input("Enter number : "))
-n2 = float(input("Enter another number : "))
-o = input("Enter operation (+, -, *, /, %) : ")
 c = True
+while c:
+    try:
+        n1 = float(input("Enter number : "))
+        n2 = float(input("Enter another number : "))
+    except ValueError:
+        print("Invalid input. Please enter number(s)")
+        n1 = float(input("Enter number : "))
+        n2 = float(input("Enter another number : "))
+    else:
+        break
+
+o = input("Enter operation (+, -, *, /, %) : ")
 
 # Keep asking for valid operator
 vo = ['+', '-', '*', '/', '%']
-while o not in vo:
+for o in vo:
     print("Invalid operation. Please enter one of +, -, *, /, %.")
     o = input("Enter operation again: ")
 
@@ -44,6 +53,7 @@ while c:
         c = False
         break
 
-# This code is a basic calculator that performs addition, subtraction, 
-# multiplication, division based on user input. It handles division by
-# zero and invalid operations gracefully.
+'''
+This code is a basic calculator that performs addition, subtraction, multiplication, division based on user input.
+It handles division by zero and invalid operations gracefully.
+'''
