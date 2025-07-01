@@ -48,6 +48,7 @@ while c:
     elif duw not in ['yes', 'no']:
         print("Invalid input. Please enter 'yes' or 'no'.")
     elif duw == 'no':
+        print("Thanks for calculating :)")
         c = False
         break
 
