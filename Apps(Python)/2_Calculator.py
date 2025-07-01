@@ -50,7 +50,6 @@ while True:
         elif duw == 'no':
             print("Thanks for calculating :)")
             exit()
-        break
 
 '''
 This code is a basic calculator that performs addition, subtraction, multiplication, division based on user input.
