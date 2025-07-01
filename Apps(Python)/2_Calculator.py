@@ -44,7 +44,6 @@ while c:
         n1 = float(input("Enter number : "))
         n2 = float(input("Enter another number : "))
         o = input("Enter operation (+, -, *, /, %) : ")
-        c = True
     elif duw not in ['yes', 'no']:
         print("Invalid input. Please enter 'yes' or 'no'.")
     elif duw == 'no':
