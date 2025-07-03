@@ -1,13 +1,13 @@
 # 🐍 Projects by Jahnvi
 
-Hello! This is a collection of my practice projects — each one built to improve my coding skills through hands-on learning, Via online sources like youtube, sololearn, AI, etc.
+Hello! This is a collection of my projects — each one built to improve my coding skills through hands-on learning, Via online sources like youtube, sololearn, AI, etc.
 
 ---
 
 ## 📌 Projects
 
 - **Calculator App** – Basic arithmetic with input checks
-- **Mad libs Game** – A game where you fill without knowing the table context
+- **SWG Game** – A game where you fill without knowing the table context
 - **Number Guessing Game** – A fun game with difficulty levels
 - (More coming soon...)
 ---
