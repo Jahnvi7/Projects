@@ -4,7 +4,7 @@ from Score import ScoreManager
 score = ScoreManager()
 
 def play_game():
-    print("🎯 Welcome to the Number Guessing Game!")
+    print("\n🎯 Welcome to the Number Guessing Game!")
     print("I am thinking of a number between 1 and 100... Can you guess it?")
     print("Choose your difficulty: Easy (10 attempts) or Hard (5 attempts)")
 
