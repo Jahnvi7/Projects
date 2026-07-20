@@ -1,5 +1,6 @@
 # 🚀 Projects by Jahnvi
 Hello! This repository contains my programming projects — each one built to improve my coding skills through hands-on practice, using learning resources like YouTube, FreeCodeCamp, AI, documentation, and more.
+
 ---
 
 ## 📌 Projects
